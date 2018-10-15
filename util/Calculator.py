@@ -13,6 +13,7 @@ class Calculator:
         self.rate_of_return = 0.0000
         self.cur_rate_of_return = 0.0000
 
+
     # 策略买入
     def buy(self):
         # 基本变量
