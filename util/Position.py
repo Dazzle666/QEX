@@ -16,6 +16,7 @@ class Position:
         self.coin_total = 0.00
         self.total = 0.00
 
+
         # 仓位
         self.coin_cash_rate = 0.0000
 
